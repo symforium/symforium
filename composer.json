@@ -1,0 +1,20 @@
+{
+    "name": "lfgamers/symforium",
+    "description": "Symfony Based, and Markdown Driven Forum Software",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Aaron Scherer",
+            "email": "aequasi@gmail.com"
+        }
+    ],
+    "require": {
+        "lfgamers/symforium-core": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lfgamers/symforium-core.git"
+        }
+    ]
+}
