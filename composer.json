@@ -1,5 +1,5 @@
 {
-    "name": "lfgamers/symforium",
+    "name": "symforium/symforium",
     "description": "Symfony Based, and Markdown Driven Forum Software",
     "license": "Apache-2.0",
     "authors": [
@@ -9,12 +9,20 @@
         }
     ],
     "require": {
-        "lfgamers/symforium-core": "dev-master"
+        "symforium/symforium-core": "dev-master@dev"
+    },
+    "require-dev": {
+        "raulfraile/ladybug": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Symforium\\Web\\": "src/"
+        }
     },
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/lfgamers/symforium-core.git"
+            "url":  "https://github.com/symforium/symforium-core.git"
         }
     ]
 }
