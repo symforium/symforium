@@ -11,6 +11,7 @@
     "require": {
         "symforium/symforium-core": "dev-master@dev"
     },
+    "minimum-stability": "dev",
     "require-dev": {
         "raulfraile/ladybug": "~1.0"
     },
