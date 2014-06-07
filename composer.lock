@@ -1,9 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
-    "hash": "bc5326b9e8761d80a42c3f2c42d1019a",
+    "hash": "0c03f9f028cacc4aeaf5819ed208c81a",
     "packages": [
         {
             "name": "aequasi/cache-bundle",
@@ -93,7 +94,7 @@
                 {
                     "name": "Luis Cordova",
                     "email": "cordoval@gmail.com",
-                    "homepage": "http://github.com/cordoval/fazer"
+                    "homepage": "http://craftitonline.com"
                 },
                 {
                     "name": "Aaron Scherer",
@@ -258,12 +259,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/collections.git",
-                "reference": "97475b2761f22cd9817c135283ad1079543a4586"
+                "reference": "77bc8cc35b33a2bcdaf5bc2c99fdcab8773f02a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/collections/zipball/97475b2761f22cd9817c135283ad1079543a4586",
-                "reference": "97475b2761f22cd9817c135283ad1079543a4586",
+                "url": "https://api.github.com/repos/doctrine/collections/zipball/77bc8cc35b33a2bcdaf5bc2c99fdcab8773f02a0",
+                "reference": "77bc8cc35b33a2bcdaf5bc2c99fdcab8773f02a0",
                 "shasum": ""
             },
             "require": {
@@ -318,7 +319,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2014-05-07 01:20:20"
+            "time": "2014-06-05 18:37:07"
         },
         {
             "name": "doctrine/common",
@@ -787,12 +788,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/doctrine2.git",
-                "reference": "63c5758070dd39a9a4dcf6e97025f712850d7e7f"
+                "reference": "859465b6919967a45eabcfd5b26036988a30ffc1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/63c5758070dd39a9a4dcf6e97025f712850d7e7f",
-                "reference": "63c5758070dd39a9a4dcf6e97025f712850d7e7f",
+                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/859465b6919967a45eabcfd5b26036988a30ffc1",
+                "reference": "859465b6919967a45eabcfd5b26036988a30ffc1",
                 "shasum": ""
             },
             "require": {
@@ -855,7 +856,7 @@
                 "database",
                 "orm"
             ],
-            "time": "2014-04-21 05:07:57"
+            "time": "2014-06-03 19:43:21"
         },
         {
             "name": "friendsofsymfony/user-bundle",
@@ -931,12 +932,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fzaninotto/Faker.git",
-                "reference": "f9713bb5c0740a1bf2d3fea40c833ceb96c5082c"
+                "reference": "0b903eaff5da0a5043e2769c5ec1f50620652812"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/f9713bb5c0740a1bf2d3fea40c833ceb96c5082c",
-                "reference": "f9713bb5c0740a1bf2d3fea40c833ceb96c5082c",
+                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/0b903eaff5da0a5043e2769c5ec1f50620652812",
+                "reference": "0b903eaff5da0a5043e2769c5ec1f50620652812",
                 "shasum": ""
             },
             "require": {
@@ -949,7 +950,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4.x-dev"
+                    "dev-master": "1.5.x-dev"
                 }
             },
             "autoload": {
@@ -973,7 +974,7 @@
                 "faker",
                 "fixtures"
             ],
-            "time": "2014-06-01 20:59:03"
+            "time": "2014-06-04 14:44:10"
         },
         {
             "name": "hautelook/alice-bundle",
@@ -1308,12 +1309,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "016423a804140a33814b8fad4240dbfa49a884da"
+                "reference": "25b16e801979098cb2f120e697bfce454b18bf23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/016423a804140a33814b8fad4240dbfa49a884da",
-                "reference": "016423a804140a33814b8fad4240dbfa49a884da",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/25b16e801979098cb2f120e697bfce454b18bf23",
+                "reference": "25b16e801979098cb2f120e697bfce454b18bf23",
                 "shasum": ""
             },
             "require": {
@@ -1341,7 +1342,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.9.x-dev"
+                    "dev-master": "1.10.x-dev"
                 }
             },
             "autoload": {
@@ -1368,7 +1369,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2014-05-29 15:04:35"
+            "time": "2014-06-04 16:30:04"
         },
         {
             "name": "nelmio/alice",
@@ -1725,17 +1726,17 @@
         },
         {
             "name": "symfony/monolog-bundle",
-            "version": "dev-master",
+            "version": "v2.5.1",
             "target-dir": "Symfony/Bundle/MonologBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/MonologBundle.git",
-                "reference": "93970f8abcd53e1079cb06ce4db53263e143ad9a"
+                "reference": "71ad844ac29401f86619f9d643393265451e858b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/MonologBundle/zipball/93970f8abcd53e1079cb06ce4db53263e143ad9a",
-                "reference": "93970f8abcd53e1079cb06ce4db53263e143ad9a",
+                "url": "https://api.github.com/repos/symfony/MonologBundle/zipball/71ad844ac29401f86619f9d643393265451e858b",
+                "reference": "71ad844ac29401f86619f9d643393265451e858b",
                 "shasum": ""
             },
             "require": {
@@ -1783,7 +1784,7 @@
                 "log",
                 "logging"
             ],
-            "time": "2014-04-29 08:13:14"
+            "time": "2014-02-19 14:49:26"
         },
         {
             "name": "symfony/swiftmailer-bundle",
@@ -1851,12 +1852,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "59365832a09a1d914d14cbca6a21a7f572760c3b"
+                "reference": "c558887cdf16291a63c71c8d26acc78222bfba06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/59365832a09a1d914d14cbca6a21a7f572760c3b",
-                "reference": "59365832a09a1d914d14cbca6a21a7f572760c3b",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/c558887cdf16291a63c71c8d26acc78222bfba06",
+                "reference": "c558887cdf16291a63c71c8d26acc78222bfba06",
                 "shasum": ""
             },
             "require": {
@@ -1864,7 +1865,7 @@
                 "php": ">=5.3.3",
                 "psr/log": "~1.0",
                 "symfony/icu": "~1.0",
-                "twig/twig": "~1.11"
+                "twig/twig": "~1.12"
             },
             "replace": {
                 "symfony/browser-kit": "self.version",
@@ -1959,46 +1960,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2014-05-31 18:45:50"
-        },
-        {
-            "name": "symforium/symforium-cms-extension",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/symforium/symforium-cms-extension.git",
-                "reference": "c7ac75406103cf4992b17b951cd53684b2e268ef"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/symforium/symforium-cms-extension/zipball/c7ac75406103cf4992b17b951cd53684b2e268ef",
-                "reference": "c7ac75406103cf4992b17b951cd53684b2e268ef",
-                "shasum": ""
-            },
-            "require": {
-                "symforium/symforium-core": "dev-master"
-            },
-            "require-dev": {
-                "symforium/symforium-core": "dev-master"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Symforium\\Plugin\\CmsPlugin\\": "src/"
-                }
-            },
-            "authors": [
-                {
-                    "name": "Aaron Scherer",
-                    "email": "aequasi@gmail.com"
-                }
-            ],
-            "description": "Symforium Micro-CMS Extension",
-            "support": {
-                "source": "https://github.com/symforium/symforium-cms-extension/tree/master",
-                "issues": "https://github.com/symforium/symforium-cms-extension/issues"
-            },
-            "time": "2014-06-01 09:26:59"
+            "time": "2014-06-06 03:57:03"
         },
         {
             "name": "symforium/symforium-core",
@@ -2006,12 +1968,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symforium/symforium-core.git",
-                "reference": "1c18f8c4609c22fe70cec11a96a08f82ec78b9c3"
+                "reference": "183e17a75fc01a48efe627d2ad4736a104a495de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symforium/symforium-core/zipball/1c18f8c4609c22fe70cec11a96a08f82ec78b9c3",
-                "reference": "1c18f8c4609c22fe70cec11a96a08f82ec78b9c3",
+                "url": "https://api.github.com/repos/symforium/symforium-core/zipball/183e17a75fc01a48efe627d2ad4736a104a495de",
+                "reference": "183e17a75fc01a48efe627d2ad4736a104a495de",
                 "shasum": ""
             },
             "require": {
@@ -2032,7 +1994,6 @@
                 "symfony/monolog-bundle": "~2.5.0",
                 "symfony/swiftmailer-bundle": "~2.3.0",
                 "symfony/symfony": "~2.5.0",
-                "symforium/symforium-cms-extension": "dev-master@dev",
                 "twig/extensions": "~1.0.0",
                 "twig/twig": "~1.15.0",
                 "whiteoctober/breadcrumbs-bundle": "~1.0.0"
@@ -2044,7 +2005,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Symforium\\Core\\": "src/"
+                    "Symforium\\": "src/"
                 }
             },
             "license": [
@@ -2061,7 +2022,7 @@
                 "source": "https://github.com/symforium/symforium-core/tree/master",
                 "issues": "https://github.com/symforium/symforium-core/issues"
             },
-            "time": "2014-06-01 23:06:53"
+            "time": "2014-06-07 05:18:39"
         },
         {
             "name": "twig/extensions",
